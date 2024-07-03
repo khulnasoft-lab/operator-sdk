@@ -24,7 +24,7 @@ import (
 	"k8s.io/client-go/util/retry"
 
 	"github.com/go-logr/logr"
-	"github.com/labring/operator-sdk/convert"
+	"github.com/khulnasoft-lab/operator-sdk/convert"
 	corev1 "k8s.io/api/core/v1"
 	"k8s.io/apimachinery/pkg/runtime/schema"
 	"k8s.io/client-go/tools/record"

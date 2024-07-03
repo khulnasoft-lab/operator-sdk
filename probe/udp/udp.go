@@ -21,7 +21,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/labring/operator-sdk/probe"
+	"github.com/khulnasoft-lab/operator-sdk/probe"
 	"k8s.io/klog/v2"
 )
 

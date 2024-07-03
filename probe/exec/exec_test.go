@@ -22,7 +22,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/labring/operator-sdk/probe"
+	"github.com/khulnasoft-lab/operator-sdk/probe"
 )
 
 type FakeCmd struct {

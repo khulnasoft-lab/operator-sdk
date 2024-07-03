@@ -22,8 +22,8 @@ import (
 	"net"
 	"time"
 
-	"github.com/labring/operator-sdk/probe"
-	"github.com/labring/operator-sdk/version"
+	"github.com/khulnasoft-lab/operator-sdk/probe"
+	"github.com/khulnasoft-lab/operator-sdk/version"
 
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/codes"

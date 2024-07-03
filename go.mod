@@ -1,4 +1,4 @@
-module github.com/labring/operator-sdk
+module github.com/khulnasoft-lab/operator-sdk
 
 go 1.13
 

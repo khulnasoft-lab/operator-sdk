@@ -25,9 +25,9 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/labring/operator-sdk/io"
-	"github.com/labring/operator-sdk/probe"
-	"github.com/labring/operator-sdk/version"
+	"github.com/khulnasoft-lab/operator-sdk/io"
+	"github.com/khulnasoft-lab/operator-sdk/probe"
+	"github.com/khulnasoft-lab/operator-sdk/version"
 	utilnet "k8s.io/apimachinery/pkg/util/net"
 )
 
