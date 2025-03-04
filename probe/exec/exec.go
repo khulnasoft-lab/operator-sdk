@@ -19,8 +19,8 @@ package exec
 import (
 	"bytes"
 
-	"github.com/labring/operator-sdk/ioutils"
-	"github.com/labring/operator-sdk/probe"
+	"github.com/khulnasoft-lab/operator-sdk/ioutils"
+	"github.com/khulnasoft-lab/operator-sdk/probe"
 
 	"k8s.io/klog/v2"
 	"k8s.io/utils/exec"

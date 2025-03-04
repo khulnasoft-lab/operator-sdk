@@ -24,7 +24,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/labring/operator-sdk/probe"
+	"github.com/khulnasoft-lab/operator-sdk/probe"
 )
 
 func TestTcpHealthChecker(t *testing.T) {

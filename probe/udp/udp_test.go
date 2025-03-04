@@ -20,7 +20,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/labring/operator-sdk/probe"
+	"github.com/khulnasoft-lab/operator-sdk/probe"
 )
 
 const maxBufferSize = 1024
