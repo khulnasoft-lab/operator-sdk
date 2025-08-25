@@ -4,7 +4,7 @@ go 1.13
 
 require (
 	github.com/davecgh/go-spew v1.1.1
-	github.com/go-logr/logr v1.4.1
+	github.com/go-logr/logr v1.4.3
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.11.0
 	github.com/stretchr/testify v1.8.3
